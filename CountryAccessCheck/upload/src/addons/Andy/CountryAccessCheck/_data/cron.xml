@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<cron>
-  <entry entry_id="CountryAccessCheck" cron_class="Andy\CountryAccessCheck\XF\Cron\CountryAccessCheck" cron_method="runCountryAccessCheck" active="1"><![CDATA[{"day_type":"dom","dom":[-1],"hours":[0],"minutes":[0]}]]></entry>
-</cron>

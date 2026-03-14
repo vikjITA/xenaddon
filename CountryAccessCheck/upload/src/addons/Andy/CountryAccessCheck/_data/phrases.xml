@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="countryaccesscheck_access" version_id="10" version_string="1.0"><![CDATA[Access]]></phrase>
+  <phrase title="countryaccesscheck_country" version_id="10" version_string="1.0"><![CDATA[Country]]></phrase>
+  <phrase title="countryaccesscheck_country_access_check" version_id="10" version_string="1.0"><![CDATA[Country access check]]></phrase>
+  <phrase title="countryaccesscheck_date" version_id="10" version_string="1.0"><![CDATA[Date]]></phrase>
+  <phrase title="countryaccesscheck_error" version_id="12" version_string="1.2"><![CDATA[Error]]></phrase>
+  <phrase title="countryaccesscheck_explain" version_id="10" version_string="1.0"><![CDATA[The following IPs have been blocked in the past 7 days. ]]></phrase>
+  <phrase title="countryaccesscheck_ip" version_id="10" version_string="1.0"><![CDATA[IP]]></phrase>
+  <phrase title="cron_entry.CountryAccessCheck" version_id="10" version_string="1.0"><![CDATA[Country access check]]></phrase>
+  <phrase title="option.countryAccessCheckAllowedCountryCodes" version_id="10" version_string="1.0"><![CDATA[Allowed country codes]]></phrase>
+  <phrase title="option.countryAccessCheckBlockedCountryCodes" version_id="10" version_string="1.0"><![CDATA[Blocked country codes]]></phrase>
+  <phrase title="option.countryAccessCheckGeoIp2AutoloadPath" version_id="16" version_string="1.6"><![CDATA[GeoIp2 autoload path]]></phrase>
+  <phrase title="option.countryAccessCheckGeoIp2DatabasePath" version_id="16" version_string="1.6"><![CDATA[GeoIp2 database path]]></phrase>
+  <phrase title="option_explain.countryAccessCheckAllowedCountryCodes" version_id="10" version_string="1.0"><![CDATA[These country codes will be allowed to use the Contact us, Log in and Register pages. For this option to work, the Blocked country codes above must be empty. Separate each country code with a comma.<br /><br />Link to country codes: <a href="https://en.wikipedia.org/wiki/ISO_3166-1" target="_blank">https://en.wikipedia.org/wiki/ISO_3166-1</a>]]></phrase>
+  <phrase title="option_explain.countryAccessCheckBlockedCountryCodes" version_id="10" version_string="1.0"><![CDATA[These country codes will not be allowed to use the Contact us, Log in and Register pages. For this option to work, the Allowed country codes below must be empty. Separate each country code with a comma.<br /><br />Link to country codes: <a href="https://en.wikipedia.org/wiki/ISO_3166-1" target="_blank">https://en.wikipedia.org/wiki/ISO_3166-1</a>]]></phrase>
+  <phrase title="option_explain.countryAccessCheckGeoIp2AutoloadPath" version_id="16" version_string="1.6"><![CDATA[Optional. Enter path to autoload.php file. Example /home/username/public_html/misc/vendor/autoload.php]]></phrase>
+  <phrase title="option_explain.countryAccessCheckGeoIp2DatabasePath" version_id="16" version_string="1.6"><![CDATA[Optional. Enter path to GeoLite2-City.mmdb file. Example /home/username/public_html/misc/GeoLite2-City.mmdb]]></phrase>
+  <phrase title="option_group.countryAccessCheck" version_id="10" version_string="1.0"><![CDATA[Country access check]]></phrase>
+  <phrase title="option_group_description.countryAccessCheck" version_id="10" version_string="1.0"><![CDATA[Options here control the Country access check add-on.]]></phrase>
+</phrases>

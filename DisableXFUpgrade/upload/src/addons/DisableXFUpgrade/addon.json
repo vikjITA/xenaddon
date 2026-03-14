@@ -1,0 +1,14 @@
+{
+	"legacy_addon_id": "",
+	"title": "[XenVn] Disable XF Upgrade Check",
+	"description": "[XenVn] Disable XenForo 2 Upgrade Check",
+	"version_id": 1000,
+	"version_string": "1.0.0",
+	"dev": "XenVn.Com",
+	"dev_url": "https://xenvn.com",
+	"faq_url": "",
+	"support_url": "",
+	"extra_urls": [],
+	"require": [],
+	"icon": "logo.png"
+}

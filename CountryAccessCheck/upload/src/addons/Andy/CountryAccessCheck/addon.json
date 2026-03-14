@@ -1,0 +1,14 @@
+{
+    "legacy_addon_id": "",
+    "title": "Country access check",
+    "description": "Blocks access to Contact us, Log in and Register pages from specified countries.",
+    "version_id": 16,
+    "version_string": "1.6",
+    "dev": "XF2 Addons",
+    "dev_url": "https://www.xf2addons.com/",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": [],
+    "icon": "icon.jpg"
+}

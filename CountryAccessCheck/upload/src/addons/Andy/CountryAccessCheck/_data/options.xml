@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="countryAccessCheckAllowedCountryCodes" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="countryAccessCheck" display_order="2"/>
+  </option>
+  <option option_id="countryAccessCheckBlockedCountryCodes" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="countryAccessCheck" display_order="1"/>
+  </option>
+  <option option_id="countryAccessCheckGeoIp2AutoloadPath" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="countryAccessCheck" display_order="3"/>
+  </option>
+  <option option_id="countryAccessCheckGeoIp2DatabasePath" edit_format="textbox" data_type="string" advanced="0">
+    <default_value></default_value>
+    <relation group_id="countryAccessCheck" display_order="4"/>
+  </option>
+</options>
